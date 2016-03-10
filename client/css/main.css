@@ -1,6 +1,10 @@
 body {
-  background: #111;
+  /*background-image: url("img/black_metal.jpg");
+  background-size: cover;*/
+  background-color: #111;
   font-family: "texgyreadventorbold";
+  background-position: center;
+  background-blend-mode: darken;
 }
 header {
   display: flex;
